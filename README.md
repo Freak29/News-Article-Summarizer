@@ -18,7 +18,7 @@ This project automatically generates summaries of Indian news articles about the
 - **Evaluation:** Tracks validation loss and ROUGE metrics to assess performance.
 - **Generation:** Produces high-quality summaries and saves them in `outputT5_fixed.csv`.
 
-### **Contributors & Work Distribution**  
+### **Contributors & Work Distribution (IITP)**  
 
 1. **Aditya Vilasrao Bhagat (2411AI27)** – Led dataset collection, including web scraping, storage, and initial processing. Also handled text cleaning and preparation.  
 2. **Divyanshu Singh (2411AI41)** – Took charge of model development, implementing tokenization, dataset splitting, and training setup.  
